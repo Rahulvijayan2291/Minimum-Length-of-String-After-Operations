@@ -50,7 +50,7 @@ The solution uses a **frequency array** and **bitwise operations** for efficient
 ---
 
 ## Watch the Explanation  
-Check out the complete explanation with dry runs and step-by-step walkthrough on my YouTube video: [Watch Here](#)  
+Check out the complete explanation with dry runs and step-by-step walkthrough on my YouTube video: https://youtu.be/CEJI1f3WWgU  
 
 ---
 
